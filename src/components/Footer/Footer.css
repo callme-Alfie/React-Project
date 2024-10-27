@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+}
+.footer{
+    width: 100%; 
+    max-width: 2000px;
+    height:500px;
+    background-color: #212121;
+    color: white;
+    position: absolute;
+    top: 1400px;
+    display: flex;            /* Use Flexbox */
+  justify-content: space-around; /* Adjusts spacing between children */
+  align-items: center;
+  gap: 25px;
+    
+}
+.first-section-div{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    margin-left: 10px;
+    
+
+}
+.middle-section-div{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    
+}
+.last-section-div{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    
+}
